@@ -11,7 +11,8 @@
     * ``` DidThePurchaserPurchasedMoreThanThreeItems ( Specefication ) ```
     * ``` TaxCalculater ( Service ) ```
   * Domain Service argument's and return's must be a Domain Objects
-  * Dispatch Domain Events and Give the flow control back to the Application Layer
+  * Dispatch a Domain and Application Events
+  * Handle Domain and Application Events if any
   * End the Use Case 
 
 ### Bounded Contexts Types ###
