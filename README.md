@@ -8,7 +8,7 @@
   * Instantiate the Actor in a valid State ( Please give him an empty Cart )
     * ``` Customer = new Customer(new Cart()) ```
   * Use Specifications and Domain Services to drive the flow 
-    * ``` DidTheCsutomerPurchasedMoreThanThreeItems ( Specefication ) ```
+    * ``` DidThePurchaserPurchasedMoreThanThreeItems ( Specefication ) ```
     * ``` TaxCalculater ( Service ) ```
   * Domain Service argument's and return's must be a Domain Objects
   * Dispatch Domain Events and Give the flow control back to the Application Layer
