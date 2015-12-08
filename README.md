@@ -29,6 +29,8 @@
   * Commands
   * Command Bus
   * Commands Handlers
+  * Specifications ( IsItLessThanThreeMinutesSinceTheSystemSentTheTacSMS )
+  * Composites Specification
   * Event Dispatcher
   * Data Mappers
   * Events
