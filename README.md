@@ -4,7 +4,7 @@
 ### FLow ###
   * All the layers should sign a contract with each other via DTO's or a Concrete Class Objects
   * Application Layer will Start the Use Case ( Purchasing )
-  * Instantiate the Actor who is gonna start the use Case ( Purchaser )
+  * Instantiate the Actor who is gonna start the Use Case ( Purchaser )
   * Instantiate the Actor in a valid State ( Please give him an empty Cart )
     * ``` Customer = new Customer(new Cart()) ```
   * Use Specifications and Domain Services to drive the flow 
