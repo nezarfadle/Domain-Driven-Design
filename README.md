@@ -28,8 +28,8 @@
 * Application Layer
   * Actions = Use Cases
   * DTO Objects
-  * Commands
   * Command Bus
+  * Commands
   * Commands Handlers
   * Specifications ( IsItLessThanThreeMinutesSinceTheSystemSentTheTacSMS )
   * Composites Specification
