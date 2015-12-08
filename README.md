@@ -7,9 +7,10 @@
   * Instantiate the Actor who is gonna start the Use Case ( Purchaser )
   * Instantiate the Actor in a valid State ( Please give him an empty Cart )
     * ``` Customer = new Customer(new Cart()) ```
-  * Use Specifications and Domain Services to drive the flow 
+  * Use Specifications, Application and Domain Services to drive the flow 
+    * ``` AuthenticationService ( Application Service ) ```
     * ``` DidThePurchaserPurchasedMoreThanThreeItems ( Specefication ) ```
-    * ``` TaxCalculater ( Service ) ```
+    * ``` TaxCalculater ( Domain Service ) ```
   * Domain Service argument's and return's must be a Domain Objects
   * Dispatch a Domain and Application Events
   * Handle Domain and Application Events if any
