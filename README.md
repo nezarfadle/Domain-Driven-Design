@@ -62,7 +62,7 @@
   * File System 
 
 ### Vocabularies ###
-* Code Standard Convention
+* Coding Standards Convention
 * CQRS
 
 
