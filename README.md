@@ -61,7 +61,9 @@
   * Cache
   * File System 
 
-
+### Vocabularies ###
+* Code Standard Convention
+* CQRS
 
 
 
