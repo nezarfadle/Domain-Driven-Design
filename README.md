@@ -52,7 +52,7 @@
   * Composites Specification
   * Events
   * Exceptions 
-  * Use Events to help UnitOfWork knows about the dmain changes:
+  * Use Domain Events to help UnitOfWork or any other interested Unit knows about the Domain changes:
     * ` Purchaser.buy() -> Dispatch -> NewPurchaseEvent ` 
 
 * Infrastructure Layer
