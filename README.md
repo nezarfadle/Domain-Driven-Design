@@ -51,6 +51,7 @@
   * Composites Specification
   * Events
   * Exceptions 
+  * Use Events to help UnitOfWork knows about the dmain changes ( Purchaser.buy() -> Dispatch -> NewPurchaseEvent )
 
 * Infrastructure Layer
   * Sessions Manager ( Temporary save the Domain State )
