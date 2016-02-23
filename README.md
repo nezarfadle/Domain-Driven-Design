@@ -64,9 +64,10 @@
   * Cache
   * File System 
 
-### Vocabularies ###
+### Technologies & Vocabularies ###
 * Coding Standards Convention
-* CQRS
+* CQRS & Events Sourcing 
+* Database Events
 
 
 
