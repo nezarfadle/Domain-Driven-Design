@@ -67,7 +67,7 @@
 ### Technologies & Vocabularies ###
 * Coding Standards Convention
 * CQRS & Events Sourcing 
-* Database Events
+* Database Events ( MySQL Events )
 
 
 
